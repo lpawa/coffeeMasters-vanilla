@@ -1,1 +1,1 @@
-A Vanilla JS Project to create a coffee Progressive web app
+A Vanilla JS Project to create a Coffee Shop Progressive web app
